@@ -1,0 +1,103 @@
+[
+    {
+      "studentId": "S001",
+      "name": "Alice Johnson",
+      "marks": {
+        "physics": 78,
+        "chemistry": 82,
+        "biology": 75,
+        "math": 88
+      }
+    },
+    {
+      "studentId": "S002",
+      "name": "Brian Smith",
+      "marks": {
+        "physics": 65,
+        "chemistry": 70,
+        "biology": 68,
+        "math": 72
+      }
+    },
+    {
+      "studentId": "S003",
+      "name": "Catherine Lee",
+      "marks": {
+        "physics": 90,
+        "chemistry": 88,
+        "biology": 85,
+        "math": 93
+      }
+    },
+    {
+      "studentId": "S004",
+      "name": "David Kumar",
+      "marks": {
+        "physics": 55,
+        "chemistry": 60,
+        "biology": 58,
+        "math": 62
+      }
+    },
+    {
+      "studentId": "S005",
+      "name": "Emma Williams",
+      "marks": {
+        "physics": 84,
+        "chemistry": 80,
+        "biology": 82,
+        "math": 87
+      }
+    },
+    {
+      "studentId": "S006",
+      "name": "Franklin Torres",
+      "marks": {
+        "physics": 73,
+        "chemistry": 77,
+        "biology": 70,
+        "math": 79
+      }
+    },
+    {
+      "studentId": "S007",
+      "name": "Grace Chen",
+      "marks": {
+        "physics": 60,
+        "chemistry": 64,
+        "biology": 61,
+        "math": 66
+      }
+    },
+    {
+      "studentId": "S008",
+      "name": "Hassan Ali",
+      "marks": {
+        "physics": 92,
+        "chemistry": 89,
+        "biology": 94,
+        "math": 95
+      }
+    },
+    {
+      "studentId": "S009",
+      "name": "Isabelle Nguyen",
+      "marks": {
+        "physics": 77,
+        "chemistry": 75,
+        "biology": 79,
+        "math": 81
+      }
+    },
+    {
+      "studentId": "S010",
+      "name": "Jack Wilson",
+      "marks": {
+        "physics": 88,
+        "chemistry": 90,
+        "biology": 86,
+        "math": 92
+      }
+    }
+  ]
+  
